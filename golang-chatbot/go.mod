@@ -1,4 +1,4 @@
-module github.com/Alitindrawan71/golang-chatbot
+module github.com/Alitindrawan24/telegram-chatbot
 
 go 1.19
 
