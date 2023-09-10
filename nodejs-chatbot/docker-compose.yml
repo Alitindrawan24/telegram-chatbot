@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  nodejs-chatbot:
+    build:      
+      dockerfile: Dockerfile
+    restart: always
+    labels:
+      app: nodejs-chatbot
+    ports:
+      - "3000:3000"

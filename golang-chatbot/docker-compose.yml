@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  golang-chatbot:
+    build:      
+      dockerfile: Dockerfile
+    restart: always
+    labels:
+      app: golang-chatbot
+    ports:
+      - "8080:8080"
