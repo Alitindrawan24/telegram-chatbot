@@ -2,7 +2,7 @@
 
 This repository is a collection of several telegram chatbot implementations in several programming languages
 
-### How to contribute
+## How to contribute
 - Star this repository.
 - Create an issue with description that how you want to contribute in this project.
 - Then fork this repository.
